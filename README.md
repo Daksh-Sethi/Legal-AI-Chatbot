@@ -40,4 +40,5 @@ Legal professionals, judges, students, and even non-experts often find legal dat
 
 ## **Files in the Repository**
 **pynb file with the model training and evaluations with bert and t5 model both**
+
 **app.py file and zip folder containing frontend files to deploy model using a website**
